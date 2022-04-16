@@ -1,7 +1,9 @@
+import Layout from "../../components/Layout"
 
 const AddEvent = () => {
   return (
-    <div>AddEvent</div>
+
+    <Layout title="Events"> About Events Events</Layout>
   )
 }
 

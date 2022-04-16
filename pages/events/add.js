@@ -1,9 +1,11 @@
-import React from 'react'
+import Layout from "../../components/Layout";
 
 const Add = () => {
   return (
-    <div>Add</div>
-  )
-}
+    <Layout title="Add Event">
+      <h1>Add</h1>
+    </Layout>
+  );
+};
 
-export default Add
+export default Add;
